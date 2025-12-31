@@ -8,7 +8,7 @@
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b__utkarsh__1311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utpathak/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/b__utkarsh__001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:butkarsh32@gmail.com) 
 
-<details>
+
   <summary>💻 Tech Stack</summary>
 
   - **Languages**: C, C++, Java, Python, JavaScript, PHP, HTML5, CSS, EJS
@@ -16,12 +16,6 @@
   - **Tools & Platforms**: Node.js, Firebase, MongoDB, MySQL, SQLite, Nodemon, VS Code, Git, GitHub
   - **Design Tools**: Figma, Canva, Adobe Photoshop, After Effects, Gimp
   
-</details>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/b-utkarsh-01/b-utkarsh-01/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b-utkarsh-01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" />
