@@ -11,10 +11,10 @@
 
   <summary>💻 Tech Stack</summary>
 
-  - **Languages**: C, C++, Java, Python, JavaScript, PHP, HTML5, CSS, EJS
-  - **Frameworks**: React, React Native, Angular, Django, Express.js, FastAPI, Flutter, Bootstrap, Tailwind, Three.js
-  - **Tools & Platforms**: Node.js, Firebase, MongoDB, MySQL, SQLite, Nodemon, VS Code, Git, GitHub
-  - **Design Tools**: Figma, Canva, Adobe Photoshop, After Effects, Gimp
+  - **Languages**: C, C++, Java, Python, JavaScript,
+  - **Frameworks**: React, Angular, Express.js, Rest API, Tailwind, Bootstrap, Three.js
+  - **Tools & Platforms**: Node.js, Firebase, MongoDB, MySQL, Nodemon, Git, GitHub
+  - **Design Tools**: Figma, Canva, Adobe Photoshop, Gimp
   
 # 📊 GitHub Stats:
 <div align="center">
