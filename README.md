@@ -218,7 +218,7 @@ But with fewer metaphors<br/>and more semicolons.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ══════ WALK THE PATH — TYPES AND DELETES ══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=150&color=00F0FF&center=true&vCenter=true&width=500&lines=%E2%9A%94%EF%B8%8F+Walk+the+path%2C+write+the+code+%E2%9A%94%EF%B8%8F" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=150&color=00F0FF&center=true&vCenter=true&width=600&lines=Less+noise.+More+commits.;Still+under+development.;Learning%2C+breaking%2C+rebuilding.;One+commit+closer." alt="Footer Quotes"/>
 
 <br/>
 <br/>
