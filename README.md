@@ -70,14 +70,15 @@ A productivity and accountability app where friends form groups, set shared goal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=b-utkarsh-01&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-utkarsh-01&layout=compact&hide_border=true&count_private=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=b-utkarsh-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-utkarsh-01&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="30%" />
 
-<br/> 
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=b-utkarsh-01&hide_border=true" width="48%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=b-utkarsh-01&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=b-utkarsh-01&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=c4302b&area=true&hide_border=true&custom_title=ACTIVITY+GRAPH" width="100%"/>
+
 </div>
 
 <br/>
@@ -90,7 +91,7 @@ Feel free to reach out for collaborations, freelance work, or just to talk tech.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b-utkarsh-01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utpathak/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/b__utkarsh__1311)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/b__utkarsh__001)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:butkarsh32@gmail.com)
 
 <br/>
