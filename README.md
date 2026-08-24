@@ -16,6 +16,12 @@
 
 <br/>
 
+
+<!-- ══════ ACTIVITY GRAPH ══════ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=b-utkarsh-01&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=c4302b&area=true&hide_border=true&custom_title=ACTIVITY+GRAPH" width="100%"/>
+
+<br/>
+
 <!-- ══════ ASCII ART WARRIOR ══════ -->
 <pre align="center">
 ⚡ ═══════════════════════════════════════ ⚡
@@ -53,11 +59,6 @@
 
 <!-- ══════ NEON DIVIDER ══════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ══════ ACTIVITY GRAPH ══════ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=b-utkarsh-01&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=c4302b&area=true&hide_border=true&custom_title=ACTIVITY+GRAPH" width="100%"/>
 
 <br/>
 
