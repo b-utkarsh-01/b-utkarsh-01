@@ -1,14 +1,32 @@
 <div align="center">
 
-<!-- ══════ ANIMATED NEON HEADER ══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%94%EF%B8%8F+%F0%9F%94%84+UTKARSH+PATHAK+%F0%9F%94%84+%E2%9A%94%EF%B8%8F;Full-Stack+Developer+%7C+Builder+%7C+Digital+Samurai" alt="Header"/>
+<!-- ══════ PERSISTENT NAME — ALWAYS VISIBLE ══════ -->
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&repeat=false&&width=700&height=60&lines=%E2%9A%A1+%F0%9F%94%84+UTKARSH+PATHAK+%F0%9F%94%84+%E2%9A%A1" alt="Utkarsh Pathak"/>
+  
+</h1>
+
+<!-- ══════ TYPING ROLE — DELETES AND RETYPES ══════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=C0C0C0&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer;Builder;Digital+Samurai;Code+Warrior" alt="Role"/>
 
 <br/>
 
-<!-- ══════ ANIMATED NEON DIVIDER ══════ -->
+<!-- ══════ NEON DIVIDER ══════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
+
+<!-- ══════ ASCII ART WARRIOR ══════ -->
+<pre align="center">
+⚡ ═══════════════════════════════════════ ⚡
+│                                         │
+│ ⚔️   W A R R I O R   R E A D M E   ⚔️  │
+│         ━━━━━━━━━━━━━━━━━━━━━           │
+│    Walk the path. Write the code.       │
+│                                         │
+⚡ ═══════════════════════════════════════ ⚡
+</pre>
+
 <br/>
 
 <!-- ══════ NEON SOCIAL BADGES ══════ -->
@@ -21,40 +39,34 @@
 <br/>
 <br/>
 
-<!-- ══════ STATS CARD ══════ -->
-<img src="https://github-readme-stats.vercel.app/api?username=b-utkarsh-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=C0C0C0" width="400"/>
-
-<br/>
-
 <!-- ══════ VISITOR COUNTER ══════ -->
 <img src="https://komarev.com/ghpvc/?username=b-utkarsh-01&color=00F0FF&style=flat-square&label=VISITORS&labelColor=0d1117" alt="Visitors"/>
 
 <br/>
 <br/>
 
-<!-- ══════ ANIMATED DIVIDER ══════ -->
+<!-- ══════ STATS CARD ══════ -->
+<img src="https://github-readme-stats.vercel.app/api?username=b-utkarsh-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=C0C0C0" width="400"/>
+
+<br/>
+<br/>
+
+<!-- ══════ NEON DIVIDER ══════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
+
+<!-- ══════ ACTIVITY GRAPH ══════ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=b-utkarsh-01&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=c4302b&area=true&hide_border=true&custom_title=ACTIVITY+GRAPH" width="100%"/>
+
 <br/>
 
-<!-- ══════ GITHUB ACTIVITY GRAPH ══════ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=b-utkarsh-01&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=c4302b&area=true&hide_border=true&custom_title=ACTIVITY%20GRAPH" width="100%"/>
-
-<br/>
-<br/>
-
-<!-- ══════ ANIMATED DIVIDER ══════ -->
+<!-- ══════ NEON DIVIDER ══════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
-<br/>
 
-</div>
-
-<!-- ══════ ABOUT ME ══════ -->
-<div align="center">
-
+<!-- ══════ ABOUT SECTION HEADER ══════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%E2%9A%A1+ABOUT+ME+%E2%9A%A1" alt="About"/>
 
 </div>
@@ -68,6 +80,10 @@
 ### ⚔️ Who Am I?
 
 **Utkarsh Pathak** — a full-stack developer from **Indore, India** who approaches code the way a swordsmith hones a blade: patiently, precisely, and with an unreasonable attention to detail.
+
+My work spans **front-end interfaces**, **back-end architecture**, and everything in between. I care about performance, clean abstractions, and building things that feel good to use.
+
+When I'm not coding, I'm probably thinking about coding — or at least pretending not to.
 
 > *"Ship fast, break nothing, sleep well. That's the goal — most days I get two out of three."*
 
@@ -93,13 +109,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-</div>
-
-<br/>
-
-<!-- ══════ GITHUB STATS ══════ -->
-<div align="center">
-
+<!-- ══════ GITHUB STATS HEADER ══════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GITHUB+STATS+%F0%9F%93%8A" alt="Stats"/>
 
 </div>
@@ -145,13 +155,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-</div>
-
-<br/>
-
-<!-- ══════ CURRENT QUEST ══════ -->
-<div align="center">
-
+<!-- ══════ CURRENT QUEST HEADER ══════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%90%9E+CURRENT+QUEST+%F0%9F%90%9E" alt="Quest"/>
 
 </div>
@@ -159,16 +163,18 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════╗
-║  > Currently sharpening skills across        ║
-║    the full stack.                           ║
-║  > Building, breaking, and learning —        ║
-║    in that order.                            ║
-║  > Open to collaborations and                ║
-║    interesting projects.                     ║
-║                                              ║
-║  STATUS: ⚡ ACTIVE ⚡                         ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║  > Currently sharpening skills across                ║
+║    the full stack.                                   ║
+║  > Building, breaking, and learning —                ║
+║    in that order.                                    ║
+║  > Open to collaborations and                        ║
+║    interesting projects.                             ║
+║                                                      ║
+║  STATUS: ⚡ ACTIVE ⚡                               ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -177,13 +183,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-</div>
-
-<br/>
-
-<!-- ══════ FUN FACTS ══════ -->
-<div align="center">
-
+<!-- ══════ FUN FACTS HEADER ══════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%A7%A0+FUN+FACTS+%F0%9F%A7%A0" alt="Fun Facts"/>
 
 </div>
@@ -217,14 +217,8 @@ But with fewer metaphors<br/>and more semicolons.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-</div>
-
-<br/>
-
-<!-- ══════ TYPING FOOTER ══════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=150&speed=30&center=true&vCenter=true&width=500&lines=%E2%9A%94%EF%B8%8F+Walk+the+path%2C+write+the+code+%E2%9A%94%EF%B8%8F" alt="Footer"/>
+<!-- ══════ WALK THE PATH — TYPES AND DELETES ══════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=150&color=00F0FF&center=true&vCenter=true&width=500&lines=%E2%9A%94%EF%B8%8F+Walk+the+path%2C+write+the+code+%E2%9A%94%EF%B8%8F" alt="Footer"/>
 
 <br/>
 <br/>
@@ -234,7 +228,21 @@ But with fewer metaphors<br/>and more semicolons.
 <br/>
 <br/>
 
-<!-- Animated footer wave -->
+<!-- ══════ ASCII ART FOOTER ══════ -->
+<pre align="center">
+╔═══════════════════════════════════════════════╗
+║    ⚔️  Utkarsh Pathak — b-utkarsh-01  ⚔️     ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
+║  🌐 github.com/b-utkarsh-01                   ║
+║  💼 linkedin.com/in/utpathak                  ║
+║  📸 instagram.com/b__utkarsh__1311            ║
+║  ✉️  butkarsh32@gmail.com                     ║
+╚═══════════════════════════════════════════════╝
+</pre>
+
+<br/>
+
+<!-- ══════ ANIMATED FOOTER WAVE ══════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F0FF,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
