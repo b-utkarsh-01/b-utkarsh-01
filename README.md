@@ -22,6 +22,12 @@
 
 <br/>
 
+<!-- ══════ NEON DIVIDER ══════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+
 <!-- ══════ ASCII ART WARRIOR ══════ -->
 <pre align="center">
 ⚡ ═══════════════════════════════════════ ⚡
@@ -34,6 +40,13 @@
 </pre>
 
 <br/>
+
+
+<!-- ══════ NEON DIVIDER ══════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
 
 <!-- ══════ NEON SOCIAL BADGES ══════ -->
 <a href="https://github.com/b-utkarsh-01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=000000&color=00F0FF" alt="GitHub"/></a>
@@ -62,13 +75,8 @@
 
 <br/>
 
-<!-- ══════ NEON DIVIDER ══════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
 <!-- ══════ ABOUT SECTION HEADER ══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%E2%9A%A1+ABOUT+ME+%E2%9A%A1" alt="About"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=1&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=500&height=66&lines=ABOUT+ME" alt="Typing SVG" /></a>
 
 </div>
 
@@ -111,7 +119,7 @@ When I'm not coding, I'm probably thinking about coding — or at least pretendi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ══════ GITHUB STATS HEADER ══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GITHUB+STATS+%F0%9F%93%8A" alt="Stats"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=1&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=500&height=66&lines=GITHUB+STATS" alt="Typing SVG" /></a>
 
 </div>
 
@@ -157,7 +165,7 @@ When I'm not coding, I'm probably thinking about coding — or at least pretendi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ══════ CURRENT QUEST HEADER ══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%90%9E+CURRENT+QUEST+%F0%9F%90%9E" alt="Quest"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=1&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=500&height=66&lines=CURRENT+QUEST" alt="Typing SVG" /></a>
 
 </div>
 
@@ -185,7 +193,7 @@ When I'm not coding, I'm probably thinking about coding — or at least pretendi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ══════ FUN FACTS HEADER ══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%A7%A0+FUN+FACTS+%F0%9F%A7%A0" alt="Fun Facts"/>
+<!--<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%A7%A0+FUN+FACTS+%F0%9F%A7%A0" alt="Fun Facts"/>
 
 </div>
 
@@ -216,9 +224,10 @@ But with fewer metaphors<br/>and more semicolons.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>-->
 
 <!-- ══════ WALK THE PATH — TYPES AND DELETES ══════ -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=1&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=500&height=66&lines=%E2%9A%94%EF%B8%8F+Warrior+Quote+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=150&color=00F0FF&center=true&vCenter=true&width=600&lines=Less+noise.+More+commits.;Still+under+development.;Learning%2C+breaking%2C+rebuilding.;One+commit+closer." alt="Footer Quotes"/>
 
 <br/>
